@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tattooSalon>
+    <masters>
+        <master id="1">
+            <name>Ира</name>
+           <prof>мастер художественной татуировки</prof>
+            <style>работает в стиле японии</style>
+            <experience>занимается свой профессией 5 лет</experience>
+            <education>закончила художественную академию</education>
+        </master>
+        <master id="2">
+            <name>Аня</name>
+            <prof>мастер художественной татуировки</prof>
+            <style>работает со стилем тату евротреш</style>
+            <experience>занимается свой профессией 10 лет</experience>
+            <education>закончила художественную академию</education>
+        </master>
+        <master id="3">
+            <name>Света</name>
+           <prof>мастер художественной татуировки</prof>
+            <style>работает в  стиле трайбл тату </style>
+            <experience>занимается свой профессией 9 лет</experience>
+            <education>закончила художественную академию</education>
+        </master>
+    </masters>
+</tattooSalon>
