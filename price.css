@@ -1,0 +1,45 @@
+.price-calc {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.price-item {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.price-item p{
+    font-size: 22px;
+
+}
+
+.price-form {
+    width: 450px;
+    border: 2px solid #896e69;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.tatoo-size input {
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px 0;
+}
+#calc-price{
+    width: 60%;
+    padding: 10px;
+    background-color: #896e69;
+    color:white;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+#calc-price:hover{
+     border: 1px solid #896e69;
+    background-color: #f9f9ff;
+    color: #896e69;
+}
